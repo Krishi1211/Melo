@@ -1,0 +1,4 @@
+.inputSize > .form-control{
+    min-height: 1rem !important;
+    margin-top: .8rem;
+}

@@ -1,0 +1,23 @@
+video::-webkit-media-controls-start-playback-button {
+  display: none;
+}
+
+.custom_fontsize {
+  font-size: 1.4rem !important;
+  color: #d3d3d3;
+}
+
+/* .mdi-infinity::before {
+  content: "\F6E3" !important;
+}
+
+.mdi:before,
+.mdi-set {
+  display: inline-block;
+  font: normal normal normal 24px / 1 "Material Design Icons";
+  font-size: inherit;
+  text-rendering: auto;
+  line-height: inherit;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+} */

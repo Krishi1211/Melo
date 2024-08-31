@@ -1,0 +1,25 @@
+.sand3 .plan .list-group-item::after {
+  position: absolute;
+  bottom: 1px;
+  left: 25%;
+  width: 50%;
+  height: 1px;
+  content: "";
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 991px) {
+  .sand .card-wrapper {
+    margin-bottom: 2rem;
+  }
+
+  .sand3 .plan {
+    margin-bottom: 2rem;
+  }
+}
+.started-btn{
+  background-color: white;
+}
+.started-btn:hover{
+  background-color: rgb(26, 26, 26) !important;
+}

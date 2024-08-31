@@ -1,0 +1,9 @@
+@media (max-width: 991px) {
+  .cardwrapper {
+    margin-bottom: 2rem;
+  }
+}
+
+.custom_hover:hover {
+  color: black !important;
+}

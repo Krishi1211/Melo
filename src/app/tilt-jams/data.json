@@ -1,0 +1,186 @@
+{
+  "meloFaq": [
+    {
+      "ID": "1",
+      "Question": "What is Melo?",
+      "Answer": "Melo is a digital music distribution company that specializes in working with independent record labels and artists. We provide a range of services to help our clients distribute and monetize their music across a variety of digital platforms and streaming services.",
+      "isOpen": true
+    },
+    {
+      "ID": "2",
+      "Question": "What services does Melo offer?",
+      "Answer": "a. Digital Distribution to over 200 digital platforms and streaming services.</p>\n\n<p>b. YouTube Content ID to help monetize music on YouTube and other user-generated content platforms.</p>\n\n<p>c. Royalty Collection with monthly royalty reporting available through an online portal.</p>\n\n<p>d. Promotion and Marketing services including playlist pitching and social media marketing to help clients gain exposure and grow their fanbase.</p>\n\n<p>e. Cover song licensing and distribution for original compositions.</p>\n\n<p>f. Label subscription for bulk releases with unlimited releases and artists.</p>\n\ng. Customized services for labels and artists based on their specific needs.",
+      "isOpen": false
+    },
+    {
+      "ID": "3",
+      "Question": "How do I distribute my music with Melo?",
+      "Answer": "a. Create an account on our website: https://dashboard.melo.works/</p>\n\n<p>b. Provide metadata and upload assets such as high-quality cover art and audio files for your music.</p>\n\n<p>c. Pay for your release using one of the payment options available.</p>\n\n<p>d. Preview and submit your release for distribution.</p>\n\ne. Once your release is live, you'll start earning for every stream and download.",
+      "isOpen": false
+    },
+    {
+      "ID": "4",
+      "Question": "What platforms does Melo distribute music to?",
+      "Answer": "Melo distributes music to over 200 digital platforms and streaming services, including Spotify, Apple Music, Amazon, JioSaavn, Gaana, Wynk Music, Tidal, Deezer, TikTok, YouTube Music, and more.",
+      "isOpen": false
+    },
+    {
+      "ID": "5",
+      "Question": "How much does it cost to distribute music with Melo?",
+      "Answer": "Melo offers different pricing plans based on the number of tracks and releases. For single releases, the price starts at Rs. 996. For EP and album releases, the price starts at Rs. 1599 and Rs. 2499 respectively.",
+      "isOpen": false
+    },
+    {
+      "ID": "6",
+      "Question": "How long does it take for my music to be distributed?",
+      "Answer": "Once you have uploaded your music and provided all the necessary information, Melo takes approximately 5-7 business days to distribute your music to all the selected platforms. However, some platforms may take longer to process the release, so it may take up to 2 weeks to see your music live on all platforms.",
+      "isOpen": false
+    },
+    {
+      "ID": "7",
+      "Question": "Can I distribute cover songs with Melo?",
+      "Answer": "Yes, Melo can distribute cover songs for you while taking care",
+      "isOpen": false
+    },
+    {
+      "ID": "8",
+      "Question": "How do I get paid for my music on Melo?",
+      "Answer": "Melo pays its clients through a quarterly royalty payment system. Once your music is distributed and starts generating revenue, Melo collects the royalties on your behalf and pays you on a quarterly basis.",
+      "isOpen": false
+    },
+    {
+      "ID": "9",
+      "Question": "Does Melo offer promotion and marketing services?",
+      "Answer": "Yes, Melo offers promotional services, including playlist pitching and social media marketing, to help clients gain exposure and grow their fanbase.",
+      "isOpen": false
+    },
+    {
+      "ID": "10",
+      "Question": "What is the difference between a Forever Release and a Cover Release?",
+      "Answer": "A Forever Release is the distribution of original music content, while a Cover Release is the distribution of a cover song. Melo offers cover release services that take care of obtaining a cover license and paying dues to the original artist.",
+      "isOpen": false
+    },
+    {
+      "ID": "11",
+      "Question": "Can I distribute my music with Melo if I am signed to a record label?",
+      "Answer": "Yes, you can still distribute your music with Melo even if you are signed to a record label. However, it is important to review your contract with your record label to ensure you have the necessary rights and permissions to distribute your music through Melo.",
+      "isOpen": false
+    },
+    {
+      "ID": "12",
+      "Question": "Can I use Melo to distribute my music internationally?",
+      "Answer": "Yes, Melo distributes music to over 200 digital platforms and streaming services worldwide, including popular platforms like Spotify, Apple Music, Amazon Music, and more.",
+      "isOpen": false
+    },
+    {
+      "ID": "13",
+      "Question": "Does Melo collect royalties for live performances?",
+      "Answer": "No, Melo does not collect royalties for live performances. Performance royalties must be collected through a performance rights organization such as ASCAP, BMI, or SESAC.",
+      "isOpen": false
+    },
+    {
+      "ID": "14",
+      "Question": "Can I use Melo to distribute music for a podcast or video?",
+      "Answer": "Yes, Melo can distribute music for podcasts or videos. However, it is important to obtain the necessary licenses and permissions for the use of copyrighted music in such content.",
+      "isOpen": false
+    },
+    {
+      "ID": "15",
+      "Question": "Does Melo offer YouTube Content ID?",
+      "Answer": "Yes, Melo offers YouTube Content ID, which allows clients to monetize their music on YouTube and other user-generated content platforms. We have currently tied up with Believe Music for our YouTube Content ID.",
+      "isOpen": false
+    },
+    {
+      "ID": "16",
+      "Question": "How do I contact Melo if I have additional questions or concerns?",
+      "Answer": "You can contact Melo through their website's contact page or by emailing their customer support team at <a href='mailto:hi@melo.works'>hi@melo.works</a> or contact us on our WhatsApp at <a href='https://wa.me/917021572975'>+91 70215 72975</a>.",
+      "isOpen": false
+    }
+  ],
+  "tiltFaq": [
+    {
+      "ID": 1,
+      "Question": "What is Tilt?",
+      "Answer": "Tilt is a culture company created with the intention of building warm, caring and homely cultures across artistic and business worlds. Every Tilted Culture is crafted in a manner that makes it progressive, sustainable, optimized, exciting, collaborative and fun.",
+      "isOpen": false
+    },
+    {
+      "ID": 2,
+      "Question": "What is Tilt’s Mission?",
+      "Answer": "Tilt is dedicated to helping individuals unlock their full potential through transformative experiences that inspire personal growth and/or social connection. We believe that by providing unique opportunities to explore new ideas, connect with diverse perspectives, and cultivate meaningful relationships, we can empower individuals to become the best versions of themselves. Our mission is to inspire and challenge individuals to embrace new experiences, expand their horizons, and create positive change in their lives and communities.",
+      "isOpen": false
+    },
+    {
+      "ID": 3,
+      "Question": "What are the jams?",
+      "Answer": "The jams are a Tilt flagship so renowned that even the Rolling Stone has covered us for it. Placing community at the heart of this experience, the jams attract musicians and music lovers of all kinds. Think of it as a casual musical free-for-all, where experienced musicians and first-timers meet, try new things, make music and celebrate the true meaning of community together.</p>\n\nImagine, if you will, a live music house party, just at a restaurant or pub!",
+      "isOpen": false
+    },
+    {
+      "ID": 4,
+      "Question": "What are the Tilt jam values?",
+      "Answer": "a. Empathy: We believe in the power of empathy to connect individuals and promote understanding, and we strive to create experiences that foster empathy and compassion.</p>\n\n<p>b. Growth: We believe that personal growth and development are essential to leading a fulfilling life, and we are committed to providing experiences that challenge individuals to expand their horizons and reach their full potential.</p>\n\n<p>c. Inclusivity: We believe in the value of diversity and inclusivity, and we are committed to creating experiences that are accessible and welcoming to individuals of all backgrounds and identities.</p>\n\n<p>d. Collaboration: We believe that collaboration and teamwork are essential to achieving meaningful and lasting change, and we encourage individuals to work together to create positive outcomes.</p>\n\n<p>e. Creativity: We believe in the power of creativity to inspire, transform, and connect individuals, and we strive to create experiences that spark creativity and foster self-expression.</p>\n\n<p>f. Respect: We believe in the importance of treating others with respect and dignity, and we encourage individuals to engage in constructive dialogue and exchange ideas in a respectful and inclusive manner.</p>\n\n<p>g. Community: We believe in the value of community and social connection, and we are committed to creating experiences that promote a sense of belonging and foster meaningful relationships.</p>\n\n<p>h. Authenticity: We believe in the importance of being true to oneself, and we encourage individuals to embrace their unique strengths and values and express themselves authentically.",
+      "isOpen": false
+    },
+    {
+      "ID": 5,
+      "Question": "Why have Melo and Tilt decided to collaborate?",
+      "Answer": "It has always been in Melo and Tilt’s vision to help develop Mumbai’s music scene. Combining Tilt’s vibrant",
+      "isOpen": false
+    },
+    {
+      "ID": 6,
+      "Question": "Does Tilt programme/give paid gigs?",
+      "Answer": "Yes, Tilt currently programmes Hindi/English Commercial Gigs. Tilt even programmes instrumental gigs and is always on the look-out for new/unique acts. If you’d like to register for our roster, fill the link in the bio of Tilt’s Instagram Page (@tilt.fam) and give us a follow. Further, priority is always given to artists performing at our jams. If you’d like to increase your chances of getting a paid gig, please do come regularly for the jams.</p>Please note that Tilt currently is not programming any indie gigs. However, we are open to the idea and are waiting for the right opportunity.",
+      "isOpen": false
+    },
+    {
+      "ID": 7,
+      "Question": "Does Tilt do weddings and corporate events?",
+      "Answer": "Of course! Apart from providing artists, arranging sound and conducting photography and production, Tilt is also known for curating unique experiences and concepts for such occasions. To know more either drop a DM on @tilt.fam or reach out to our Sales Head Kaelyn Dsouza on <a href='https://wa.me/917208167607'>+917208167607</a>.",
+      "isOpen": false
+    },
+    {
+      "ID": 8,
+      "Question": "Does Tilt do Marketing Events?",
+      "Answer": "Yes. Tilt can execute below-the-line marketing experiences of all kinds, themes and sizes. Tilt even has a unique expertise in the niche of Restaurant/Pub/Venue marketing where we help F&amp;B, FMCG, consumer services and other relevant businesses gain market penetration through experiential marketing. To know more either drop a DM on @tilt.fam or reach out to our Sales Head Kaelyn Dsouza on <a href='https://wa.me/917208167607'>+917208167607</a>.",
+      "isOpen": false
+    },
+    {
+      "ID": 9,
+      "Question": "Are the jams looking for more partners?",
+      "Answer": "Hell yes! If you’re in a business that can add value to the musicians and music lovers that come for our jams, we’d be very interested in collaborating with you. Currently we’re on the look-out for cash and kind partners.",
+      "isOpen": false
+    },
+    {
+      "ID": 10,
+      "Question": "How do I register for a jam?",
+      "Answer": "All registrations happen on the night and at the jam itself. To register for the jam get in touch with your OG or On-Ground Manager. He’ll be available at the event itself.",
+      "isOpen": false
+    },
+    {
+      "ID": 11,
+      "Question": "Do I have to bring my own band?",
+      "Answer": "Artists are welcome to bring their own band, however, in case you don't have a band, you could, with the help of our on-ground manager, get other musicians present at the event to jam along with you!",
+      "isOpen": false
+    },
+    {
+      "ID": 12,
+      "Question": "Can I sing in Hindi? Can I sing an original song?",
+      "Answer": "At a regular jam all kinds of music are welcome. This includes original music, instrumentals, and music in Hindi, Marathi and other regional/foreign languages. Should the jam be a themed jam following the theme would be priority.",
+      "isOpen": false
+    },
+    {
+      "ID": 13,
+      "Question": "Is the cover charge fully redeemable?",
+      "Answer": "Yes, cover charge is fully redeemable against F&amp;B at the venue.",
+      "isOpen": false
+    },
+    {
+      "ID": 14,
+      "Question": "How are the jams different from a regular open mic?",
+      "Answer": "The spirit of the jam is to make spontaneous music with unknown people. The spirit of the open mic is to present what you’ve already prepared. In that vein, our jams are curated in a manner that allows people to mix and match and make music on the spot.",
+      "isOpen": false
+    }
+  ]
+}

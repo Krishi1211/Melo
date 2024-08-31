@@ -1,0 +1,31 @@
+.nav_link_new:not(.active){
+    color: white !important;
+    background-color: transparent !important;
+}
+.nav_link_new:not(.active):hover{
+    color: #b9de22;
+}
+.nav-tabs  {
+    color: #b9de22;
+}
+.nav-tabs{
+    --bs-nav-tabs-border-color: #b9de22; 
+}
+.active{
+    border: none;
+}
+.nav-tabs .nav-item.show .nav_link_new, .nav-tabs .nav_link_new.active{
+    background-color: transparent !important;
+    border: 0 !important;
+    border-bottom: 3px solid #b9de22 !important;
+}
+.nav-tabs .nav_link_new{
+    border: none;
+}
+.accordion-button::after {
+    display: none;
+}
+.nav-tabs .nav_link_new:focus, .nav-tabs .nav_link_new:hover{
+    border: none;
+    border-bottom: 3px solid #b9de22 !important;
+}

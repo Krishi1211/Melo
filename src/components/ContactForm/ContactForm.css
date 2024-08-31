@@ -1,0 +1,15 @@
+::placeholder {
+    color: #5f5f5fb0 !important;
+    ; /* Firefox */
+  }
+
+  
+  /* ::-ms-input-placeholder {
+    color: red;
+  }
+   */
+
+/* Increase specificity */
+h1.custom_font_family {
+  font-family: "Montserrat", sans-serif !important;
+}

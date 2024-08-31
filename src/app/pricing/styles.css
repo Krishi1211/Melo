@@ -1,0 +1,19 @@
+.scrollable-table::-webkit-scrollbar {
+  width: 0;
+}
+
+@media (min-width: 768px) {
+  #addsomemargin {
+    margin-top: 7.5rem;
+  }
+}
+
+@media (max-width: 320px) {
+  .ps-threeee {
+    padding-left: 2rem;
+  }
+}
+
+.custom_height {
+  height: 5rem !important;
+}

@@ -1,0 +1,30 @@
+@media (min-width: 992px) {
+  .card-wrapper {
+    padding: 2rem 4rem !important;
+  }
+}
+
+@media (max-width: 991px) {
+  .card-wrapper {
+    padding: 1rem 2rem !important;
+  }
+}
+
+.card-wrapper {
+  margin-bottom: 2rem;
+  border-radius: 4px;
+  background: #fafafa;
+}
+
+.card-wrapper,
+.item-wrapper {
+  overflow: hidden;
+}
+
+.custom_size {
+  font-size: 1.8rem !important;
+}
+.custom_font {
+  font-size: 1.1rem !important;
+  
+}

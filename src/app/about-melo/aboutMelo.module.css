@@ -1,0 +1,20 @@
+.bolded{
+    font-weight: 900;
+}
+
+.heading{
+    font-size: 3.1rem;
+}
+
+.subtext{
+    font-size: 2.68rem;
+}
+
+@media (max-width: 767px) {
+    .subtext{
+        font-size: 2rem;
+    }
+    .heading{
+        font-size: 2.3rem;
+    }
+}

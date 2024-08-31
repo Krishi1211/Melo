@@ -1,0 +1,5 @@
+.bgIMG2 {
+    background-image: url("../../assets/Melo_Home_Landscape-min.gif");
+    /* height: 100vh !important; */
+    aspect-ratio: 580 / 333;
+}

@@ -1,0 +1,210 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap'); */
+
+/* *{
+  font-family: "Poppins", sans-serif;
+} */
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+::-webkit-scrollbar {
+  width: 7px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #181818;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #b9de22;
+  border-radius: 5px;
+  /* border-top: 1 solid #1c1c1c; */
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #8eb102;
+}
+
+.title span {
+  background: linear-gradient(-45deg, #3fb9ff, #b9de22, #0bfd94);
+  background-size: 400% 400%;
+  animation: gradient 15s ease infinite;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.custom_Height {
+  height: 3rem !important;
+}
+
+.custom_Height_Promotions {
+  height: 2.5rem !important;
+}
+
+@media only screen and (min-width: 992px) {
+  .custom_item::before, .custom_arrow_blue::before {
+    content: "\2192";
+    font-family: Moririse2 !important;
+    position: absolute;
+    font-size: 32px;
+    left: -15px;
+    top: 8.5%;
+    color: #b9de22;
+  }
+
+  .custom_arrow_blue::before{
+    color: #8fa9e4;
+  }
+
+  .custom_item_promotions::before {
+    content: "\2192";
+    font-family: Moririse2 !important;
+    position: absolute;
+    font-size: 32px;
+    left: -15px;
+    top: 2.5%;
+    color: rgb(143, 169, 228);
+  }
+
+  .position_relative {
+    position: relative;
+  }
+}
+
+
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.socialicon {
+  color: #b9de22;
+}
+
+/* @media (max-width: 991px) {
+  .containerz .item-content {
+    padding: 1rem 1rem 0;
+  }
+} */
+
+/* @media (min-width: 992px) {
+  .item-content {
+    padding: 2rem 2rem 0;
+  }
+} */
+/* 
+@media (max-width: 991px) {
+  .item-wrapper {
+    padding: 1rem 1rem 0;
+  }
+} */
+
+.blackBg {
+  background-color: #131313 !important;
+}
+
+.blackishTxt {
+  color: #131313;
+}
+
+.errorMsg {
+  font-size: 0.8rem;
+  color: rgb(255, 34, 34);
+  padding-top: 0.3rem;
+}
+
+input[type="checkbox"] {
+  appearance: none;
+  -webkit-appearance: none;
+  font-size: 2rem;
+  padding: 0.6rem;
+  border: 1px solid rgba(0, 0, 0, 0.555);
+  border-radius: 0.3rem;
+  position: relative;
+}
+
+input[type="checkbox"]:checked {
+  content: '✔';
+  background-color: #b9de22; /* Change to desired color */
+  border: 1px solid rgba(0, 0, 0, 0.555);
+}
+
+input[type="checkbox"]:checked::before {
+  content: '✔'; /* Unicode for tick mark */
+  color: black; /* Color of the tick */
+  font-size: 1.2rem; /* Adjust size as needed */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.greyTxt {
+  color: #dcdcdc !important;
+}
+
+.greenTxt {
+  color: #b9de22 !important;
+}
+
+.greenBg {
+  background-color: #b9de22 !important;
+}
+
+.price {
+  color: #b9de22;
+  text-align: right;
+}
+
+.priceHeading {
+  color: #b9de22;
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+.animationEffect {
+  transition: all 0.5s ease-in-out;
+}
+
+.animationEffect:hover {
+  translate: 0 -0.8rem;
+  box-shadow: 5px 5px 5px #b9de22;
+}
+
+/* --------------------------- */
+
+.custom_minHeight {
+  min-height: 100vh !important;
+}
+
+:root {
+  --toastify-color-success: #8dde22 !important;
+}
+
+.Toastify__toast-theme--light {
+  color: #232323 !important;
+}
+
+.p-dialog-mask{
+  background-color: #00000057;
+}
+.p-dialog-header-icon{
+  color: #b9de22;
+}
+.text-justify{
+  text-align: justify;
+}

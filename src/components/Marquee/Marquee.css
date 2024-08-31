@@ -1,0 +1,44 @@
+.black {
+  background-color: #232323 !important;
+  color: #131313 !important;
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+}
+
+@media only screen and (max-width: 600px) {
+  .black {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+}
+
+.imgz {
+  margin: 20px;
+  width: 211px;
+  margin-right: 50px;
+  text-align: center;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+  width: 100%;
+  height: 100%;
+  position: relative;
+  transition-property: transform;
+}
+.imgz {
+  font-style: normal;
+  line-height: 1.5;
+  font-weight: 400;
+  width: 120px !important;
+  /* margin: auto !important; */
+  margin: 2rem !important;
+  /* color: #bd3131 !important; */
+}
+
+.slider {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #131313;
+}

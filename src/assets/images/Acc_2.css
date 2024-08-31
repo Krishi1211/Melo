@@ -1,0 +1,204 @@
+.navbar
+{
+    height: 120px;
+    padding: 0px 8px 8px 8px;
+}
+.active-img
+{
+    
+    padding: 10px 10px 10px 10px;
+    margin-left: 10px;
+    margin-right: 15px;
+    position: relative;
+    bottom: 23px;
+    right:25px;
+    
+}
+#brandimg
+{
+    width:100%;
+    width: 18px;
+}
+.table 
+{
+    display: table;
+    margin-bottom: 0px;
+}
+.table ul
+{
+    justify-content: center;
+}
+.active-img:hover
+{
+    border-top: #B9DE22 solid 4px;
+}
+.active
+{
+    filter: invert(50%) sepia(30%) saturate(5472%) hue-rotate(351deg) brightness(100%) contrast(91%);
+    border-top: #B9DE22 solid 4px;
+}
+.tag
+{
+    font-family: 'Open Sans', sans-serif;
+    font: size 10pt;;
+    font-weight: bold;
+    color: #ffffff;
+    padding: 10px 10px 10px 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    position: relative;
+    bottom: 23px;
+}
+.tag:hover
+{
+    color: #B9DE22;
+}
+.navbar-brand
+{
+    float: right;
+    position: relative;
+    left: 20px;
+    bottom: 20px;
+}
+.container-fluid
+{
+    height: 750px;
+    padding-left: auto;
+          
+}
+.side-word
+{
+    height: 350px;
+    margin-right: 20px; 
+    
+}
+.side-word a
+{
+    display: block;
+    text-align: right;
+    text-decoration: none;
+    margin-bottom: 10px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 33px;
+    color: #ffffff;
+}
+.side-word a:hover
+{
+    color: #B9DE22;
+    font-size: 47px;
+    transition: 0.4s;
+    text-decoration: none;
+}
+.socials
+{
+    height: 80px;
+    align-content: center;
+    justify-content: flex-end;
+}
+.socials ul li
+{
+    display: inline;
+    text-decoration: none;
+}
+.s-tag
+{
+    margin-right: 20px;
+    filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(343deg) brightness(102%) contrast(101%);
+}
+.s-tag:hover
+{
+    filter: invert(55%) sepia(44%) saturate(5329%) hue-rotate(349deg) brightness(98%) contrast(94%);
+    text-decoration: none;
+}
+.main-footer
+{
+    align-content: center;
+    justify-content: center;
+}
+.list-unstyled li a,p{
+    font-family: 'Open Sans', sans-serif; 
+    font-size: 12pt;
+    text-decoration: none;
+    color: #ffffff;
+}
+.list-unstyled li a:hover
+{
+    font-weight: bold;
+}
+.footer-middle
+{
+    position: relative;
+    top:40%;
+    right:10%;
+    left:1%;
+}
+#form
+{
+    background-image: url(./3.png);
+    text-align: center;
+}
+#edit
+{
+    text-decoration: none;
+    font-family: 'Bebas Neue' ,cursive ;
+    color: #ffffff;
+    font-size: 25pt;
+    padding-left: 35px;
+    margin-right: 25px;
+    
+}
+#edit:hover
+{
+    color: black;
+}
+input,::placeholder,textarea
+{
+    font-family: 'Open Sans', sans-serif;
+    padding-left: 25px;
+}
+input:focus,textarea:focus
+{
+    outline: none;
+}
+input:focus::placeholder,textarea:focus::placeholder
+{
+    color: transparent;
+}
+#info_form,#address
+{
+    background-color: white;
+    border: none;
+    height: 80px;
+    font-size: 15pt;
+    width: 100%;
+    margin-bottom: 5%;
+}
+
+#_pass
+{
+    background-color: #1f1f1f;
+    height: 80px;
+    width: 100%;
+    font-size: 15pt;
+    border:none;
+    margin-bottom: 5%;
+}
+#_pass::placeholder,#_pass
+{
+    color: #B9DE22;
+}
+#_pass:focus::placeholder
+{
+    color: transparent;
+}
+#region
+{
+   background-color: white;
+    border: none;
+    height: 80px;
+    font-size: 15pt;
+    width: 47%;
+    margin-bottom: 5%;
+    
+    
+}

@@ -1,0 +1,23 @@
+.accordion{
+    --bs-accordion-btn-icon: "none";
+    --bs-accordion-color: none;
+    --bs-accordion-active-bg: "transparent";
+    --bs-accordion-active-color: "transparent";
+    /* --bs-accordion-border-color: #4a4a4a !important; */
+    --bs-accordion-border-color: none !important;
+    --bs-accordion-border-width: none !important;
+    --bs-accordion-border-radius: none !important;
+    background-color: transparent;
+}
+.accordion-button{
+    padding: auto 0;
+}
+.accordion-button:not(.collapsed)::after{
+    display: none;
+}
+.accordion-button::after {
+    display: none;
+}
+.accordion-item{
+    border: 0;  
+}

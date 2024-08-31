@@ -1,0 +1,56 @@
+.footHeading {
+    color: #B9DE22 !important;
+    font-size: 0.7rem;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+.footerLinks {
+    color: white;
+    position: relative;
+}
+.footerLinks::after{
+    content: "";
+    /* Required for pseudo-elements */
+    position: absolute;
+    bottom: 0;
+    /* Position it at the bottom or wherever you want the border */
+    left: 0;
+    /* Start from the left */
+    width: 0%;
+    /* Start with no visible border */
+    height: 2px;
+    /* Adjust the height as per your requirement */
+    background: #B9DE22;
+    /* Border color */
+    transition: width 0.3s ease-in-out;
+    /* Smooth transition for the width */
+}
+.footerLinks:hover::after {
+    width: 100%;
+}
+.footerLinks:hover{
+    color: #B9DE22;
+    text-decoration: none;
+}
+
+
+.md-list {
+    list-style: none;
+    padding: 0;
+}
+
+.footerTxtSize {
+    font-size: .9rem;
+    text-decoration: underline;
+}
+
+.robotoTxt {
+    font-family: "Roboto", sans-serif !important;
+}
+
+.display-7 {
+    font-family: "Roboto", sans-serif;
+    /* font-size: 1.2rem !important; */
+    line-height: 1.5 !important;
+}

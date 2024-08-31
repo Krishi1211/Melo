@@ -1,0 +1,21 @@
+.iconButton {
+    border: 2px solid #b9de22;
+    width: 2rem;
+    height: 2rem;
+}
+.iconButton {
+    transition: all ease-in-out 0.2s ;
+}
+
+.iconButton:hover {
+    background-color: #b9de22 !important;
+}
+.socialIcon{
+    width: 1.7rem;
+    height: 1.7rem;
+}
+.iconButton:hover .socialIcon {
+    color: black !important;
+    /* Icon color on hover */
+}
+

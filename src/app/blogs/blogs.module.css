@@ -1,0 +1,16 @@
+.blogThumbnail{
+    width: 100%;
+}
+.cardSize{
+    width: 25vw;
+}
+@media (max-width: 992px){
+    .cardSize{
+        width: 30vw;
+    }
+}
+@media (max-width: 576px){
+    .cardSize{
+        width: 90%;
+    }
+}

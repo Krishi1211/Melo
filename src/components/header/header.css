@@ -1,0 +1,109 @@
+.logo {
+  width: 10rem;
+  height: 3.5rem;
+}
+
+.navbar-nav .nav-link {
+  font-size: 1rem;
+  padding: 0.7rem 0px;
+  margin: 0px 0.5rem;
+  letter-spacing: 1px;
+  color: black;
+}
+
+.navbar-dropdown {
+  background: white !important;
+}
+
+.nav-link {
+  padding: 0.5rem;
+}
+
+.active {
+  color: #b9de22 !important;
+  border-top: 2px solid;
+}
+
+.navbar-light .navbar-toggler-icon {
+  background-image: url("/assets/images/menu-outline.svg");
+}
+
+.active-login {
+  color: #b9de22 !important;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: flex;
+  flex-direction: column;
+  transition-duration: 1s !important;
+}
+
+.dashboard-button {
+  color: black;
+  background-color: #b9de22 !important;
+}
+
+.on_Hover:hover {
+  color: #b9de22 !important;
+}
+
+.dashboard-button:hover {
+  color: white;
+  background-color: #000;
+}
+
+/* .navbar-buttons {
+  min-width: 130px !important;
+} */
+
+.navbar-toggler-icon {
+  display: inline-block !important;
+  width: 1.5em !important;
+  height: 1.5em !important;
+  vertical-align: middle !important;
+  background-image: var(--bs-navbar-toggler-icon-bg) !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  background-size: 100% !important;
+}
+
+.navbar-toggler {
+  padding: var(--bs-navbar-toggler-padding-y) var(--bs-navbar-toggler-padding-x) !important;
+  font-size: var(--bs-navbar-toggler-font-size) !important;
+  line-height: 1 !important;
+  color: var(--bs-navbar-color) !important;
+  background-color: transparent !important;
+  border: var(--bs-border-width) solid var(--bs-navbar-toggler-border-color) !important;
+  border-radius: var(--bs-navbar-toggler-border-radius) !important;
+  transition: var(--bs-navbar-toggler-transition) !important;
+}
+
+.modifiedNav > .accordion-header{
+  border: none !important;
+}
+.modifiedNav > .accordion{
+  --bs-accordion-border-color: none !important;
+  --bs-accordion-body-padding-y: .2rem !important;
+  --bs-accordion-body-padding-x: 1rem !important;
+  --bs-accordion-active-color: none !important;
+  --bs-accordion-border-width: none !important;
+  --bs-accordion-border-color: none !important;
+  --bs-accordion-btn-padding-y: .6rem !important;
+  --bs-accordion-btn-padding-x: .5rem !important;
+
+}
+
+.modifiedNav2 > .accordion-button{
+  font-weight: 700 !important;
+  color: #2b2f32 !important;
+  padding: .5rem !important;
+}
+
+.modifiedNav2 > .accordion-button:not(.collapsed){
+  background-color: #fff !important;
+  
+}
+
+.modifiedNav2 > .accordion-button:focus{
+  box-shadow: none !important;
+}

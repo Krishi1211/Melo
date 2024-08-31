@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+::placeholder {
+  color: #444444b0 !important;
+  /* Firefox */
+  font-weight: 400;
+}
+
+/* .p-multiselect-panel{
+  top: 677.047px !important;
+} */
+
+.p-multiselect-label {
+  color: black;
+  padding-left: .6rem;
+}
+
+.p-checkbox-input{
+  margin-right: 1rem;
+}
+
+.p-checkbox-box{
+  display: none;
+}
+
+.p-multiselect-items-wrapper{
+  background-color: white !important;
+}
+
+.p-multiselect-header, .p-multiselect-footer{
+  background-color: white;
+}
+
+.p-multiselect-footer{
+  border-top: 1px solid #30404d42;
+}
+.p-multiselect-header{
+  border-bottom: 1px solid #30404d42;
+  padding: .5rem;
+}
+
+
+.p-multiselect-select-all .p-multiselect-select-all-label{
+  display: none;
+}
+.p-multiselect-items-wrapper > ul{
+  margin:  .2rem;
+}
+
+.p-multiselect-token-label{
+  font-size: .8rem;
+  padding: .5rem;
+  font-weight: bold;
+  font-family: 'Montserrat';
+
+}
+
+.p-multiselect-token {
+  background-color: #b9de22;
+  margin: 0 .1rem;
+  border-radius: 2rem;
+  padding: .1rem .8rem;
+}
